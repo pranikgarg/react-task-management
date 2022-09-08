@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pranikgarg.github.io/react-task-management\n/static/css/main.887583d8.chunk.css",
+    "main.js": "https://pranikgarg.github.io/react-task-management\n/static/js/main.960d4b38.chunk.js",
+    "main.js.map": "https://pranikgarg.github.io/react-task-management\n/static/js/main.960d4b38.chunk.js.map",
+    "runtime-main.js": "https://pranikgarg.github.io/react-task-management\n/static/js/runtime-main.f3e6e52b.js",
+    "runtime-main.js.map": "https://pranikgarg.github.io/react-task-management\n/static/js/runtime-main.f3e6e52b.js.map",
+    "static/js/2.747de5ae.chunk.js": "https://pranikgarg.github.io/react-task-management\n/static/js/2.747de5ae.chunk.js",
+    "static/js/2.747de5ae.chunk.js.map": "https://pranikgarg.github.io/react-task-management\n/static/js/2.747de5ae.chunk.js.map",
+    "index.html": "https://pranikgarg.github.io/react-task-management\n/index.html",
+    "static/css/main.887583d8.chunk.css.map": "https://pranikgarg.github.io/react-task-management\n/static/css/main.887583d8.chunk.css.map",
+    "static/js/2.747de5ae.chunk.js.LICENSE.txt": "https://pranikgarg.github.io/react-task-management\n/static/js/2.747de5ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e6e52b.js",
+    "static/js/2.747de5ae.chunk.js",
+    "static/css/main.887583d8.chunk.css",
+    "static/js/main.960d4b38.chunk.js"
+  ]
+}
